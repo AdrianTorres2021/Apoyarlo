@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Apoyarlo/static/css/main.e6c13ad2.css",
+    "main.js": "/Apoyarlo/static/js/main.74e10261.js",
+    "static/js/787.fb9c46f3.chunk.js": "/Apoyarlo/static/js/787.fb9c46f3.chunk.js",
+    "index.html": "/Apoyarlo/index.html",
+    "main.e6c13ad2.css.map": "/Apoyarlo/static/css/main.e6c13ad2.css.map",
+    "main.74e10261.js.map": "/Apoyarlo/static/js/main.74e10261.js.map",
+    "787.fb9c46f3.chunk.js.map": "/Apoyarlo/static/js/787.fb9c46f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.74e10261.js"
+  ]
+}
